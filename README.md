@@ -57,8 +57,6 @@ costPremium = 125.00
 print("Premium groud shipping: $", costPremium)
 
 #drone shipping
-
-
 if weight <= 2:
   price = weight * 4.50 
 elif weight <= 6:

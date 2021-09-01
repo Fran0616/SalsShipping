@@ -68,7 +68,6 @@ elif weight <=10:
 else:
   price = weight * 14.25
 print('Drone Shipping $', format(price, ".2f"))
-
 ```
 
 Test Data 

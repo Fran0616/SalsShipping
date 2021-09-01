@@ -78,3 +78,5 @@ Drone Shipping $ 591.38
 
 Conclusion 
 = 
+
+In order to solve this problem I used the control flow. The control flow are used in programming to make decisions. The program runs and start moving through its checklist. if the condition is met than an execution occurs. The if statement is used to create control flow in the code, it is accomponny by the elif statement to build additional checks into the if statemnt. The elif statement helps control the order the program check each of the condition in the statement. First the if statement is checked, then each elif statement is checked from top to bottom, then finally the else code is executed if none of the previou conditions have been met.

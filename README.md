@@ -23,7 +23,7 @@ Ground Shipping
 Drone Shipping
 =
 
-| Weight of Package | Second Header |First Header  |
+| Weight of Package | Price per Pound |Flat Charge   |
 | -------------     | ------------- | -------------|
 | 2 lb or less    | $4.50 | $0.00 |
 | Over 2 lb but less than or equal to 6 lb     | $9.00 |$0.00  |
